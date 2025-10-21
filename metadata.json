@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Audio Chatbot",
+  "description": "A conversational chatbot application built with React and Gemini. It features a text-to-speech capability, allowing users to listen to the chatbot's responses, powered by Google's speech generation API.",
+  "requestFramePermissions": []
+}
